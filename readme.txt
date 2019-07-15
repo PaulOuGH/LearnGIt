@@ -6,4 +6,4 @@ GitHub started.
 dev:creating a new branch is quick.
 Creating a new branch is quick and simple.
 dev:add merge
-fix bug 101
+new dev branch
